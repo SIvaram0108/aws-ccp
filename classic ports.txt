@@ -1,0 +1,7 @@
+Classic ports to know
+22 = ssh
+21 = ftp
+22 = sftp
+80 = http
+443 = https
+3389 = rdp

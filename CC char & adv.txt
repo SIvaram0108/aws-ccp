@@ -1,0 +1,10 @@
+Characteristics
+On-demand self service, Broad network access, Multi-tenancy and resource pooling, Rapid elasticity and scalability, Measured service.
+
+6 adv of cc:
+1.Trade capital expense (CAPEX) for operational expense (OPEX)
+2.Benefit from massive economies of scale
+3.Stop guessing capacity
+4.Increase speed and agility
+5.Stop spending money running and maintaining data centers
+6.Go global in minutes

@@ -1,0 +1,10 @@
+Pricing of the Cloud – Quick Overview
+• AWS has 3 pricing fundamentals, following the pay-as-you-go pricing 
+model
+• Compute:
+• Pay for compute time
+• Storage:
+• Pay for data stored in the Cloud
+• Data transfer OUT of the Cloud:
+• Data transfer IN is free
+• Solves the expensive issue of traditional IT

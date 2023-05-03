@@ -1,0 +1,10 @@
+AWS Systems Manager (SSM)
+• Helps you manage your EC2 and On-Premises systems at scale
+• Another Hybrid AWS service
+• Get operational insights about the state of your infrastructure
+• Suite of 10+ products
+• Most important features are:
+• Patching automation for enhanced compliance
+• Run commands across an entire fleet of servers 
+• Store parameter configuration with the SSM Parameter Store
+• Works for Linux, Windows, MacOS, and Raspberry Pi OS (Raspbian)
